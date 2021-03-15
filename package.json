@@ -1,0 +1,25 @@
+{
+  "name": "pagerank-sparse",
+  "version": "0.0.1",
+  "description": "PageRank (PR) algorithm for sparse graphs in JavaScript.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/pagerank-sparse.git"
+  },
+  "keywords": [
+    "pagerank",
+    "sparse",
+    "graph"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodef/pagerank-sparse/issues"
+  },
+  "homepage": "https://github.com/nodef/pagerank-sparse#readme"
+}
